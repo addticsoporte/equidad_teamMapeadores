@@ -1,0 +1,1626 @@
+[
+  {
+    "id": "78",
+    "fechaCaptura": "2022-05-24T07:46:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 21,
+      "valor": "INSTITUTO MUNICIPAL DE PLANEACIÓN DE MAZATLÁN"
+    },
+    "nombres": "LETICIA",
+    "primerApellido": "ALVARADO",
+    "segundoApellido": "FUENTES",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA GENERAL",
+      "nivel": "DIRECTIVO"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "LUIS GUILLERMO",
+      "primerApellido": "BENITEZ",
+      "segundoApellido": "TORRES",
+      "puesto": {
+        "nombre": "DIRECTORA GENERAL",
+        "nivel": "DIRECTIVO"
+      }
+    }
+  },
+  {
+    "id": "79",
+    "fechaCaptura": "2022-05-24T07:56:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 21,
+      "valor": "INSTITUTO MUNICIPAL DE PLANEACIÓN DE MAZATLÁN"
+    },
+    "nombres": "ANA LUCIA",
+    "primerApellido": "LUNA",
+    "segundoApellido": "LOPEZ",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "RECURSOS HUMANOS",
+      "nivel": "PROFESIONAL TÉCNICO"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "LETICIA",
+      "primerApellido": "ALVARADO",
+      "segundoApellido": "FUENTES",
+      "puesto": {
+        "nombre": "RECURSOS HUMANOS",
+        "nivel": "PROFESIONAL TÉCNICO"
+      }
+    }
+  },
+  {
+    "id": "80",
+    "fechaCaptura": "2022-05-24T08:01:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 21,
+      "valor": "INSTITUTO MUNICIPAL DE PLANEACIÓN DE MAZATLÁN"
+    },
+    "nombres": "OMAR ANTONIO",
+    "primerApellido": "HERNÁNDEZ",
+    "segundoApellido": "CASTELLANOS",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "UNIDAD DE ADMINISTRACIÓN",
+      "nivel": "JEFATURA"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTES"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "LETICIA",
+      "primerApellido": "ALVARADO",
+      "segundoApellido": "FUENTES",
+      "puesto": {
+        "nombre": "UNIDAD DE ADMINISTRACIÓN",
+        "nivel": "JEFATURA"
+      }
+    }
+  },
+  {
+    "id": "81",
+    "fechaCaptura": "2022-05-25T05:18:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 28,
+      "valor": "SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL Y MUNICIPAL ANTICORRUPCIÓN DEL ESTADO DE SINALOA"
+    },
+    "nombres": "FRANCISCO JAVIER",
+    "primerApellido": "DE LA CRUZ",
+    "segundoApellido": "OLGUÍN",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL Y MUNICIPAL ANTICORRUPCIÓN DEL ESTADO DE SINALOA",
+      "siglas": "SESEA",
+      "clave": "OS00600"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE ADMINISTRACION Y FINANZAS",
+      "nivel": "DIRECTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "FRANCISCO JAVIER",
+      "primerApellido": "LIZÁRRAGA",
+      "segundoApellido": "VALDEZ",
+      "puesto": {
+        "nombre": "DIRECTOR DE ADMINISTRACION Y FINANZAS",
+        "nivel": "DIRECTOR"
+      }
+    }
+  },
+  {
+    "id": "82",
+    "fechaCaptura": "2022-05-25T05:18:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 1,
+      "valor": "AUDITORIA SUPERIOR DEL ESTADO DE SINALOA"
+    },
+    "nombres": "EMMA GUADALUPE",
+    "primerApellido": "FELIX",
+    "segundoApellido": "RIVERA",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AUDITORIA SUPERIOR DEL ESTADO DE SINALOA",
+      "siglas": "ASE",
+      "clave": "ASE001"
+    },
+    "puesto": {
+      "nombre": "AUDITORA SUPERIOR",
+      "nivel": "DIRECTIVO"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "EMMA GUADALUPE",
+      "primerApellido": "FELIX",
+      "segundoApellido": "RIVERA",
+      "puesto": {
+        "nombre": "AUDITORA SUPERIOR",
+        "nivel": "DIRECTIVO"
+      }
+    }
+  },
+  {
+    "id": "83",
+    "fechaCaptura": "2022-05-25T05:19:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 1,
+      "valor": "AUDITORIA SUPERIOR DEL ESTADO DE SINALOA"
+    },
+    "nombres": "GRECIA ITZEL",
+    "primerApellido": "TIRADO",
+    "segundoApellido": "GALVEZ",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AUDITORIA SUPERIOR DEL ESTADO DE SINALOA",
+      "siglas": "ASE",
+      "clave": "ASE001"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA DE ADMINISTRACION Y FINANZAS",
+      "nivel": "DIRECTIVO"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "EMMA GUADALUPE",
+      "primerApellido": "FELIX",
+      "segundoApellido": "RIVERA",
+      "puesto": {
+        "nombre": "DIRECTORA DE ADMINISTRACION Y FINANZAS",
+        "nivel": "DIRECTIVO"
+      }
+    }
+  },
+  {
+    "id": "84",
+    "fechaCaptura": "2022-05-25T05:20:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 1,
+      "valor": "AUDITORIA SUPERIOR DEL ESTADO DE SINALOA"
+    },
+    "nombres": "ANABEL",
+    "primerApellido": "CASTRO",
+    "segundoApellido": "QUINTERO",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AUDITORIA SUPERIOR DEL ESTADO DE SINALOA",
+      "siglas": "ASE",
+      "clave": "ASE001"
+    },
+    "puesto": {
+      "nombre": "JEFE DE RECURSOS HUMANOS",
+      "nivel": "JEFATURA"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "GRECIA ITZEL",
+      "primerApellido": "TIRADO",
+      "segundoApellido": "GALVEZ",
+      "puesto": {
+        "nombre": "JEFE DE RECURSOS HUMANOS",
+        "nivel": "JEFATURA"
+      }
+    }
+  },
+  {
+    "id": "85",
+    "fechaCaptura": "2022-05-25T05:21:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 1,
+      "valor": "AUDITORIA SUPERIOR DEL ESTADO DE SINALOA"
+    },
+    "nombres": "ELENA",
+    "primerApellido": "REYES",
+    "segundoApellido": "CUELLAR",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AUDITORIA SUPERIOR DEL ESTADO DE SINALOA",
+      "siglas": "ASE",
+      "clave": "ASE001"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO ADQUISICIONES Y MATERIALES",
+      "nivel": "JEFATURA"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "GRECIA ITZEL",
+      "primerApellido": "TIRADO",
+      "segundoApellido": "GALVEZ",
+      "puesto": {
+        "nombre": "JEFE DE DEPARTAMENTO ADQUISICIONES Y MATERIALES",
+        "nivel": "JEFATURA"
+      }
+    }
+  },
+  {
+    "id": "86",
+    "fechaCaptura": "2022-05-26T03:14:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 23,
+      "valor": "JUNTA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE MAZATLÁN"
+    },
+    "nombres": "OSBALDO",
+    "primerApellido": "LÓPEZ",
+    "segundoApellido": "ANGULO",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "GERENTE GENERAL",
+      "nivel": "DIRECTIVO"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "LUIS GUILLERMO",
+      "primerApellido": "BENITEZ",
+      "segundoApellido": "TORRES",
+      "puesto": {
+        "nombre": "GERENTE GENERAL",
+        "nivel": "DIRECTIVO"
+      }
+    }
+  },
+  {
+    "id": "87",
+    "fechaCaptura": "2022-05-26T03:17:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 23,
+      "valor": "JUNTA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE MAZATLÁN"
+    },
+    "nombres": "JESUS RICARDO",
+    "primerApellido": "LEGARDA",
+    "segundoApellido": "HERRERA",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "GERENTE DE ADMINISTRACIÓN Y FINANZAS",
+      "nivel": "DIRECTIVO"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "OSBALDO",
+      "primerApellido": "LÓPEZ",
+      "segundoApellido": "ANGULO",
+      "puesto": {
+        "nombre": "GERENTE DE ADMINISTRACIÓN Y FINANZAS",
+        "nivel": "DIRECTIVO"
+      }
+    }
+  },
+  {
+    "id": "88",
+    "fechaCaptura": "2022-05-26T03:18:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 23,
+      "valor": "JUNTA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE MAZATLÁN"
+    },
+    "nombres": "VALENTIN ANTONIO",
+    "primerApellido": "ZAZUETA",
+    "segundoApellido": "SOLIS",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DE SERVICIOS GENERALES, ALMACÉN Y TALLER",
+      "nivel": "JEFATURA"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "JESUS RICARDO",
+      "primerApellido": "LEGARDA",
+      "segundoApellido": "HERRERA",
+      "puesto": {
+        "nombre": "COORDINADOR DE SERVICIOS GENERALES, ALMACÉN Y TALLER",
+        "nivel": "JEFATURA"
+      }
+    }
+  },
+  {
+    "id": "89",
+    "fechaCaptura": "2022-05-26T03:19:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 23,
+      "valor": "JUNTA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE MAZATLÁN"
+    },
+    "nombres": "FEDERICO TOMAS",
+    "primerApellido": "VIZCARRA",
+    "segundoApellido": "MENDOZA",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPARTAMENTO DE COMPRAS Y SERVICIOS GENERALES",
+      "nivel": "JEFATURA"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "JESUS RICARDO",
+      "primerApellido": "LEGARDA",
+      "segundoApellido": "HERRERA",
+      "puesto": {
+        "nombre": "JEFE DEL DEPARTAMENTO DE COMPRAS Y SERVICIOS GENERALES",
+        "nivel": "JEFATURA"
+      }
+    }
+  },
+  {
+    "id": "90",
+    "fechaCaptura": "2022-05-26T03:21:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 23,
+      "valor": "JUNTA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE MAZATLÁN"
+    },
+    "nombres": "FELIPE DE JESUS",
+    "primerApellido": "CHAIREZ",
+    "segundoApellido": "VALLES",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE ASUNTOS JURÍDICOS",
+      "nivel": "DIRECTIVO"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "OSBALDO",
+      "primerApellido": "LÓPEZ",
+      "segundoApellido": "ANGULO",
+      "puesto": {
+        "nombre": "DIRECTOR DE ASUNTOS JURÍDICOS",
+        "nivel": "DIRECTIVO"
+      }
+    }
+  },
+  {
+    "id": "91",
+    "fechaCaptura": "2022-05-26T03:22:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 23,
+      "valor": "JUNTA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE MAZATLÁN"
+    },
+    "nombres": "JESUS PASTOR",
+    "primerApellido": "TOSTADO",
+    "segundoApellido": "QUEVEDO",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPARTAMENTO DE NORMATIVIDAD, ADQUISICIONES DE BIENES Y SERVICIOS",
+      "nivel": "JEFATURA"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "JESUS RICARDO",
+      "primerApellido": "LEGARDA",
+      "segundoApellido": "HERRERA",
+      "puesto": {
+        "nombre": "JEFE DEL DEPARTAMENTO DE NORMATIVIDAD, ADQUISICIONES DE BIENES Y SERVICIOS",
+        "nivel": "JEFATURA"
+      }
+    }
+  },
+  {
+    "id": "92",
+    "fechaCaptura": "2022-05-26T04:14:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 23,
+      "valor": "JUNTA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE MAZATLÁN"
+    },
+    "nombres": "LUIS MANUEL",
+    "primerApellido": "MERCADO",
+    "segundoApellido": "ROSALES",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "GERENTE DE CONSTRUCCIÓN",
+      "nivel": "DIRECTIVO"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "OSBALDO",
+      "primerApellido": "LÓPEZ",
+      "segundoApellido": "ANGULO",
+      "puesto": {
+        "nombre": "GERENTE DE CONSTRUCCIÓN",
+        "nivel": "DIRECTIVO"
+      }
+    }
+  },
+  {
+    "id": "93",
+    "fechaCaptura": "2022-05-26T04:15:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 23,
+      "valor": "JUNTA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE MAZATLÁN"
+    },
+    "nombres": "HERIBERTO",
+    "primerApellido": "TIRADO",
+    "segundoApellido": "MEAVE",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPARTAMENTO DE CONCURSOS Y NORMATIVIDAD",
+      "nivel": "JEFATURA"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "LUIS MANUEL",
+      "primerApellido": "MERCADO",
+      "segundoApellido": "ROSALES",
+      "puesto": {
+        "nombre": "JEFE DEL DEPARTAMENTO DE CONCURSOS Y NORMATIVIDAD",
+        "nivel": "JEFATURA"
+      }
+    }
+  },
+  {
+    "id": "94",
+    "fechaCaptura": "2022-05-26T04:16:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 23,
+      "valor": "JUNTA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE MAZATLÁN"
+    },
+    "nombres": "JORGE ALBERTO",
+    "primerApellido": "ELIZALDE",
+    "segundoApellido": "OROZCO",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPARTAMENTO DE SUPERVICIÓN DE OBRAS",
+      "nivel": "JEFATURA"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "LUIS MANUEL",
+      "primerApellido": "MERCADO",
+      "segundoApellido": "ROSALES",
+      "puesto": {
+        "nombre": "JEFE DEL DEPARTAMENTO DE SUPERVICIÓN DE OBRAS",
+        "nivel": "JEFATURA"
+      }
+    }
+  },
+  {
+    "id": "95",
+    "fechaCaptura": "2022-06-02T02:43:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 24,
+      "valor": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE MAZATLÁN - DIF MAZATLÁN"
+    },
+    "nombres": "MONICA AURELIA",
+    "primerApellido": "VARGAS",
+    "segundoApellido": "MORALES",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "ENCARGADA DE COMPRAS",
+      "nivel": "JEFATURA"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "GRACIA MARGARITA",
+      "primerApellido": "JIMENEZ",
+      "segundoApellido": "LIZARRAGA",
+      "puesto": {
+        "nombre": "ENCARGADA DE COMPRAS",
+        "nivel": "JEFATURA"
+      }
+    }
+  },
+  {
+    "id": "96",
+    "fechaCaptura": "2022-06-02T03:26:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 17,
+      "valor": "ACUARIO DE MAZATLÁN"
+    },
+    "nombres": "PABLO GERARDO",
+    "primerApellido": "ROJAS",
+    "segundoApellido": "ZEPEDA",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DEL ACUARIO DE MAZATLÁN",
+      "nivel": "DIRECTIVO"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "LUIS GUILLERMO",
+      "primerApellido": "BENITEZ",
+      "segundoApellido": "TORRES",
+      "puesto": {
+        "nombre": "DIRECTOR DEL ACUARIO DE MAZATLÁN",
+        "nivel": "DIRECTIVO"
+      }
+    }
+  },
+  {
+    "id": "97",
+    "fechaCaptura": "2022-06-02T03:33:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 17,
+      "valor": "ACUARIO DE MAZATLÁN"
+    },
+    "nombres": "LUIS ERNESTO",
+    "primerApellido": "MONTAÑO",
+    "segundoApellido": "LEY",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR",
+      "nivel": "JEFATURA"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "PABLO GERARDO",
+      "primerApellido": "ROJAS",
+      "segundoApellido": "ZEPEDA",
+      "puesto": {
+        "nombre": "COORDINADOR",
+        "nivel": "JEFATURA"
+      }
+    }
+  },
+  {
+    "id": "98",
+    "fechaCaptura": "2022-06-02T03:35:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 17,
+      "valor": "ACUARIO DE MAZATLÁN"
+    },
+    "nombres": "DAVID ARMANDO",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "CRUZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "TITULAR DEL ÓRGANO INTERNO DE CONTROL",
+      "nivel": "DIRECTIVO"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "PABLO GERARDO",
+      "primerApellido": "ROJAS",
+      "segundoApellido": "ZEPEDA",
+      "puesto": {
+        "nombre": "TITULAR DEL ÓRGANO INTERNO DE CONTROL",
+        "nivel": "DIRECTIVO"
+      }
+    }
+  },
+  {
+    "id": "99",
+    "fechaCaptura": "2022-06-02T03:36:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 17,
+      "valor": "ACUARIO DE MAZATLÁN"
+    },
+    "nombres": "ANGEL",
+    "primerApellido": "SERVIN",
+    "segundoApellido": "SAMPEDRO",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "RESPONSABLE DEL ÁREA JURÍDICA",
+      "nivel": "JEFATURA"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "PABLO GERARDO",
+      "primerApellido": "ROJAS",
+      "segundoApellido": "ZEPEDA",
+      "puesto": {
+        "nombre": "RESPONSABLE DEL ÁREA JURÍDICA",
+        "nivel": "JEFATURA"
+      }
+    }
+  },
+  {
+    "id": "101",
+    "fechaCaptura": "2022-06-02T03:44:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 17,
+      "valor": "ACUARIO DE MAZATLÁN"
+    },
+    "nombres": "MARGARITA",
+    "primerApellido": "RIVERA",
+    "segundoApellido": "VALENZUELA",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "RESPONSABLE DE ADQUISICIONES",
+      "nivel": "JEFATURA"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "PABLO GERARDO",
+      "primerApellido": "ROJAS",
+      "segundoApellido": "ZEPEDA",
+      "puesto": {
+        "nombre": "RESPONSABLE DE ADQUISICIONES",
+        "nivel": "JEFATURA"
+      }
+    }
+  },
+  {
+    "id": "103",
+    "fechaCaptura": "2022-06-02T04:22:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 18,
+      "valor": "INSTITUTO MUNICIPAL DE CULTURA, TURISMO Y ARTE DE MAZATLÁN"
+    },
+    "nombres": "JOSÉ ÁNGEL",
+    "primerApellido": "TOSTADO",
+    "segundoApellido": "QUEVEDO",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL",
+      "nivel": "DIRECTIVO"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "LUIS GUILLERMO",
+      "primerApellido": "BENITEZ",
+      "segundoApellido": "TORRES",
+      "puesto": {
+        "nombre": "DIRECTOR GENERAL",
+        "nivel": "DIRECTIVO"
+      }
+    }
+  },
+  {
+    "id": "104",
+    "fechaCaptura": "2022-06-02T04:23:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 18,
+      "valor": "INSTITUTO MUNICIPAL DE CULTURA, TURISMO Y ARTE DE MAZATLÁN"
+    },
+    "nombres": "PATRICIA",
+    "primerApellido": "BRISEÑO",
+    "segundoApellido": "VALDEZ",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA DE ADMINISTRACION Y FINANZAS",
+      "nivel": "DIRECTIVO"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTES"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "JOSÉ ÁNGEL",
+      "primerApellido": "TOSTADO",
+      "segundoApellido": "QUEVEDO",
+      "puesto": {
+        "nombre": "DIRECTORA DE ADMINISTRACION Y FINANZAS",
+        "nivel": "DIRECTIVO"
+      }
+    }
+  },
+  {
+    "id": "105",
+    "fechaCaptura": "2022-06-02T04:24:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 18,
+      "valor": "INSTITUTO MUNICIPAL DE CULTURA, TURISMO Y ARTE DE MAZATLÁN"
+    },
+    "nombres": "CLAUDIA VIOLETA",
+    "primerApellido": "VALLEJO",
+    "segundoApellido": "GURROLA",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "RESPONSABLE DE RECURSOS HUMANOS",
+      "nivel": "DIRECTIVO"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "JOSÉ ÁNGEL",
+      "primerApellido": "TOSTADO",
+      "segundoApellido": "QUEVEDO",
+      "puesto": {
+        "nombre": "RESPONSABLE DE RECURSOS HUMANOS",
+        "nivel": "DIRECTIVO"
+      }
+    }
+  },
+  {
+    "id": "106",
+    "fechaCaptura": "2022-06-03T05:05:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 20,
+      "valor": "INSTITUTO MUNICIPAL DE LA MUJER DE MAZATLÁN"
+    },
+    "nombres": "MARÍA DEL CARMEN",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "MORALES",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA",
+      "nivel": "DIRECTIVO"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "LUIS GUILLERMO",
+      "primerApellido": "BENITEZ",
+      "segundoApellido": "TORRES",
+      "puesto": {
+        "nombre": "DIRECTORA",
+        "nivel": "DIRECTIVO"
+      }
+    }
+  },
+  {
+    "id": "107",
+    "fechaCaptura": "2022-06-03T05:10:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 20,
+      "valor": "INSTITUTO MUNICIPAL DE LA MUJER DE MAZATLÁN"
+    },
+    "nombres": "LORENIA",
+    "primerApellido": "CASTRO",
+    "segundoApellido": "BALDENEBRO",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "COORDINADORA DEL DEPARTAMENTO DE CONTABILIDAD",
+      "nivel": "JEFATURA"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARÍA DEL CARMEN",
+      "primerApellido": "RAMIREZ",
+      "segundoApellido": "MORALES",
+      "puesto": {
+        "nombre": "COORDINADORA DEL DEPARTAMENTO DE CONTABILIDAD",
+        "nivel": "JEFATURA"
+      }
+    }
+  },
+  {
+    "id": "108",
+    "fechaCaptura": "2022-06-03T05:13:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 20,
+      "valor": "INSTITUTO MUNICIPAL DE LA MUJER DE MAZATLÁN"
+    },
+    "nombres": "GIOVANNA CECILIA",
+    "primerApellido": "JUAREZ",
+    "segundoApellido": "CARDENAS",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE MAZATLÁN",
+      "siglas": "AYUMAZ",
+      "clave": "AY01200"
+    },
+    "puesto": {
+      "nombre": "TITULAR DEL ÓRGANO INTERNO DE CONTROL",
+      "nivel": "DIRECTIVO"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARÍA DEL CARMEN",
+      "primerApellido": "RAMIREZ",
+      "segundoApellido": "MORALES",
+      "puesto": {
+        "nombre": "TITULAR DEL ÓRGANO INTERNO DE CONTROL",
+        "nivel": "DIRECTIVO"
+      }
+    }
+  }
+]

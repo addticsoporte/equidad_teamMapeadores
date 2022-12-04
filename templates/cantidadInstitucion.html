@@ -129,15 +129,37 @@
           <div class="col-12">
             <div class="row align-items-center mb-2">
               <div class="col">
-                <h1>FemmeTool</h1>
-                <h2 class="h5 page-title">Bienvenido!</h2>
-                <h3>Actualmente, no existe información acerca de la participación ciudadana de la mujer dentro de las instituciones públicas que generan los contratos a particulares, por lo tanto, se busca clasificar y desglosar la cantidad de mujeres que participan desde la perspectiva de las instituciones, del puesto que desempeñan y el tipo de responsabilidad, también no existe una evolución de la tendencia con respecto a la participación de la mujer a lo largo de los años.</h3>
+                <h3>{{ dato }}</h3>
+                  
 
               </div>
 
             </div>
             
-            -->
+            <div class="row items-align-baseline">
+                <div class="col-md-12 col-lg-4">
+                <div class="card shadow eq-card mb-4">
+                  <div class="card-body">
+                    <div class="chart-widget mb-2">
+                      
+                    </div>
+                    <div class="row items-align-center">
+                      <div class="col-4 text-center">
+                        <p class="text-muted mb-1">{{ dato }}</p>
+                        <h6 class="mb-1">{{ contador }}</h6>
+                        <p class="text-muted mb-0"></p>
+                      </div>
+                      <div class="col-4 text-center">
+                        <p class="text-muted mb-1">Cantidad de Mujeres en este ámbito</p>
+                        
+                      </div>
+                      
+                    </div>
+                  </div> <!-- .card-body -->
+                </div> <!-- .card -->
+              </div> <!-- .col -->
+              
+            </div> <!-- .row -->
 
           </div> <!-- .col-12 -->
         </div> <!-- .row -->
@@ -508,4 +530,3 @@
   </script>
 </body>
 
-</html>
