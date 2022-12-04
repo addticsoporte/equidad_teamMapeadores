@@ -9,21 +9,23 @@ Como Iniciar la app
 1.Clonar Repositorio
 2.Abrir el CMD en la carpeta raiz de la app
 
-  *Ejecutar
-  
+3.Ejecutar (Sin el corchete)
+
   $ py -m venv .venv
-
-  *
-
-  $ .venv\scripts\activate
-  (Sin el corchete)
   
- 3.En la consola aparecerá la ruta con el prefijo (venv)
+4.Despues
+  
+  $ .venv\scripts\activate
+  
+  
+5.En la consola aparecerá la ruta con el prefijo (venv)
  
- 4. Ejecutar
+6.Ejecutar
+
   $ pip install -r requirements.txt
  
- 5. Para iniciar la app
+ 7.Para iniciar la app
+ 
   $ flask run
   
   La aplicación estara en el puerto 5000, abrir en el navegador http://localhost:5000
